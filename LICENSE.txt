@@ -1,1 +1,2 @@
 HELLO YANXIGONGLUE
+Creating a new branch is quick.
