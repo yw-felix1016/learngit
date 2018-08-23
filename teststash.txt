@@ -1,0 +1,1 @@
+This is a file with needing temportory save and editing after modify bug
